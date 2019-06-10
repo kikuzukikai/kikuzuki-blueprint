@@ -14,7 +14,7 @@
 私どもは駆逐艦菊月の研究が更に加速する事を期待し、駆逐艦菊月が忘れ去られることのない未来を望みます。
 
 ## 図面に誤りを見つけたときは
-[お問い合わせフォーム](https://www.kikuzukikai.org/docs/contact.html)または[Issues](https://github.com/kikuzukikai/blueprint/issues)に
+[お問い合わせフォーム](https://www.kikuzukikai.org/docs/contact.html)または[Issues](https://github.com/kikuzukikai/kikuzuki-blueprint/issues)に
 
 - 誤っている(または、そう思われる)箇所
 - 正しい(または、そう思われる)資料
@@ -33,3 +33,6 @@
 一切の政治的思想に関与せず、菊月元乗組員であり戦歿または物故された方々に対する慰霊、会員相互の親睦や情報共有、そして次の世代への菊月の記憶や資料の継承を行なっています。
 
 [設立趣意書](https://www.kikuzukikai.org/blog/prospectus.html)
+
+## 変更履歴
+2019/06/10 Issuesへのリンクを修正しました。
