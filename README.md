@@ -1,4 +1,6 @@
 # 駆逐艦菊月復元図面
+![](./1600x1046.png)
+
 最新版のダウンロードは[こちら](https://github.com/kikuzukikai/kikuzuki-blueprint/releases/latest)です。
 
 ## 無料公開の趣旨
