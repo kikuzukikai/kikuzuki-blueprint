@@ -26,29 +26,11 @@
 
 または、修正していただいた図面の[Pull request](https://github.com/kikuzukikai/kikuzuki-blueprint/pulls)に協力してくださると助かります。
 
-## スポンサー
-  <a href="https://opencollective.com/kikuzukikai/sponsors/0/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/0/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/1/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/1/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/2/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/2/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/3/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/3/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/4/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/4/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/5/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/5/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/6/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/6/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/7/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/7/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/8/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/8/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/sponsors/9/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/sponsors/9/avatar"></a>
+## 寄付について
 
-## バッカー
-  <a href="https://opencollective.com/kikuzukikai/backers/0/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/0/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/1/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/1/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/2/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/2/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/3/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/3/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/4/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/4/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/5/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/5/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/6/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/6/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/7/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/7/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/8/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/8/avatar"></a>
-  <a href="https://opencollective.com/kikuzukikai/backers/9/website" target="_blank"><img src="https://opencollective.com/kikuzukikai/backers/9/avatar"></a>
+2021年1月より、当会のサイトから直接、匿名の寄付が[可能になりました](https://donate.kikuzukikai.org)。
+
+また、[Booth](https://kikuzukikai.booth.pm)の上乗せ機能「Boost」は税制上、寄付ではなく収益とみなされる恐れがあるため、**寄付金をBoostで送らないよう**、お願い申し上げます。
 
 ## 利用について
 この図面は、駆逐艦菊月会によって、[クリエイティブ・コモンズ 表示 4.0 国際 ライセンス(CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja)の下に提供されています。
