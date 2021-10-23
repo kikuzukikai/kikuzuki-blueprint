@@ -16,7 +16,7 @@
 私どもは駆逐艦菊月の研究が更に加速する事を期待し、駆逐艦菊月が忘れ去られることのない未来を望みます。
 
 ## 図面に誤りを見つけたときは
-[お問い合わせフォーム](https://www.kikuzukikai.org/docs/contact.html)または[Issues](https://github.com/kikuzukikai/kikuzuki-blueprint/issues)に
+[照会フォーム](https://www.kikuzukikai.org/forms/inquiry.html)または[Issues](https://github.com/kikuzukikai/kikuzuki-blueprint/issues)に
 
 - 誤っている(または、そう思われる)箇所
 - 正しい(または、そう思われる)資料
@@ -28,7 +28,7 @@
 
 ## 寄付について
 
-2021年1月より、当会のサイトから直接、匿名の寄付が[可能になりました](https://donate.kikuzukikai.org)。
+2021年1月より、当会のサイトから直接、匿名の寄付が[可能になりました](https://www.kikuzukikai.org/forms/donate.html)。
 
 また、[Booth](https://kikuzukikai.booth.pm)の上乗せ機能「Boost」は税制上、寄付ではなく収益とみなされる恐れがあるため、**寄付金をBoostで送らないよう**、お願い申し上げます。
 
