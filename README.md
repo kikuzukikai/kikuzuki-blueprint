@@ -28,7 +28,7 @@
 
 ## 寄付について
 
-2021年1月より、当会のサイトから直接、匿名の寄付が[可能になりました](https://www.kikuzukikai.org/forms/donate.html)。
+2021年1月より、当会のサイトから直接、匿名の寄付が[可能になりました](https://www.kikuzukikai.gr.jp/forms/donate.html)。
 
 また、[Booth](https://kikuzukikai.booth.pm)の上乗せ機能「Boost」は税制上、寄付ではなく収益とみなされる恐れがあるため、**寄付金をBoostで送らないよう**、お願い申し上げます。
 
@@ -41,7 +41,7 @@
 駆逐艦菊月に所縁のある旧軍人軍属、戦歿者並びに物故者の遺族、有志によって組織され、その全てに交流の場を提供する戦友会です。
 駆逐艦菊月の顕彰に主眼を置き、一切の政治的思想に関与せず、菊月元乗組員であり戦歿または物故された方々に対する慰霊、会員相互の親睦や情報共有、そして次の世代への菊月の記憶や資料の継承を行なっています。
 
-[設立趣意書](https://www.kikuzukikai.org/blog/prospectus.html)
+[設立趣意書](https://www.kikuzukikai.gr.jp/blog/prospectus.html)
 
 ## 変更履歴
 
