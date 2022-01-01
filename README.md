@@ -16,7 +16,7 @@
 私どもは駆逐艦菊月の研究が更に加速する事を期待し、駆逐艦菊月が忘れ去られることのない未来を望みます。
 
 ## 図面に誤りを見つけたときは
-[照会フォーム](https://www.kikuzukikai.org/forms/inquiry.html)または[Issues](https://github.com/kikuzukikai/kikuzuki-blueprint/issues)に
+[照会フォーム](https://www.kikuzukikai.gr.jp/forms/inquiry.html)または[Issues](https://github.com/kikuzukikai/kikuzuki-blueprint/issues)に
 
 - 誤っている(または、そう思われる)箇所
 - 正しい(または、そう思われる)資料
